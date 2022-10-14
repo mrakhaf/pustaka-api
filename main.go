@@ -1,7 +1,7 @@
 package main
 
 import (
-	"pustaka-api/handler"
+	"github.com/pustaka-api/handler"
 
 	"github.com/gin-gonic/gin"
 )

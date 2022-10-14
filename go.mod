@@ -1,4 +1,4 @@
-module pustaka-api
+module github.com/pustaka-api
 
 go 1.18
 

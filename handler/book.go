@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"pustaka-api/book"
+	"github.com/pustaka-api/book"
 
 	"github.com/gin-gonic/gin"
 	"github.com/go-playground/validator"
