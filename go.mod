@@ -1,4 +1,4 @@
-module github.com/pustaka-api
+module github.com/mrakhaf/pustaka-api
 
 go 1.18
 
